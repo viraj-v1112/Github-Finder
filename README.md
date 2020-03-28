@@ -1,3 +1,9 @@
+You can find this app deployed on : https://finder-github-v.netlify.com/
+
+Github Finder made using React.js 
+Context API
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
